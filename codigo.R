@@ -5,3 +5,5 @@ create_github_token()
 gitcreds::gitcreds_set()
 
 numero = 2+1 
+
+usethis::use_github()
